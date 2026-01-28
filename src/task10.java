@@ -11,4 +11,4 @@ public class task10 {
         System.out.println(numbersList );
 
     }
-} hg
+}
