@@ -8,6 +8,6 @@ public class task05 {
         ArrayList<String> colors  = new ArrayList<>(Arrays.asList("Red","Green","Blue","White","Pink"));
         Collections.fill(colors,"Black");
 
-        System.out.println(colos);
+        System.out.println(colors);
     }
 }
