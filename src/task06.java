@@ -13,4 +13,3 @@ public class task06 {
             System.out.println("No, there are not some types of sport");
         }
     }
-}
