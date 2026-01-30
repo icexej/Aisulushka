@@ -11,6 +11,7 @@ public class task13 {
                 shortestSong = currentSong;
             }
         }
+        System.out.println("Original: " + songs);
         System.out.println("Rhe shortest name of song '" + shortestSong + "'");
     }
 }
