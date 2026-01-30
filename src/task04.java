@@ -15,4 +15,4 @@ public class task04 {
         fruits.removeIf(f -> f.equals("Banana"));
         System.out.println("After deleting: " + fruits);
     }
-}
+}4
