@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class task7 {
+public class task07 {
     public static void main(String[] args) {
 
         ArrayList<String> flowers  = new ArrayList<>(Arrays.asList("Rose","Lily","Rose","Peony","Sunflower"));

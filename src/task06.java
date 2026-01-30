@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class task6 {
+public class task06 {
     public static void main(String[] args) {
 
         ArrayList<String> sports1  = new ArrayList<>(Arrays.asList("Football","Basketball","Tennis","Swimming","Ping-Pong"));
