@@ -14,6 +14,7 @@ public class task15 {
                 oddList.add(num);
             }
         }
+        System.out.println("Original: " + numbers);
 
         System.out.println("Even numbers: " + evenList);
         System.out.println("Odd numbers: " + oddList);
