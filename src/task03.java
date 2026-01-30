@@ -20,4 +20,4 @@ public class task03 {
                 }
         System.out.println("Count of Pizza in the arraylist " + pizzaCount);
     }
-}rr
+}
