@@ -21,7 +21,7 @@ public class task01 {
             if (!mergedList.contains(book)) {
                 mergedList.add(book);
             }
-        }
+        }f
 
         for (String book : list2) {
             if (!mergedList.contains(book)) {
